@@ -1,0 +1,36 @@
+name: Keypad Mgmt
+version: c523ee0
+slug: keypad-app
+description: "Keypad management app \u2014 store and validate user PIN codes via MQTT\
+  \ and fire Home Assistant events"
+url: https://github.com/cjramseyer/keypad-app
+image: ghcr.io/cjramseyer/keypad-app/{arch}
+init: false
+arch:
+- aarch64
+- amd64
+startup: services
+ingress: true
+ingress_port: 8000
+panel_icon: mdi:dialpad
+panel_title: Keypad Manager
+services:
+- mqtt:want
+options:
+  log_level: info
+  mqtt_topic_prefix: keypad
+  mqtt_host: ''
+  mqtt_port: 1883
+  mqtt_user: ''
+  mqtt_password: ''
+  ha_event_topic: homeassistant/event/keypad_entry
+  api_key: ''
+schema:
+  log_level: list(trace|debug|info|notice|warning|error|fatal)
+  mqtt_topic_prefix: str
+  mqtt_host: str
+  mqtt_port: int
+  mqtt_user: str
+  mqtt_password: password
+  ha_event_topic: str
+  api_key: password
