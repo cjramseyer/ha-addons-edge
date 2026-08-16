@@ -1,10 +1,5 @@
 ## What's Changed
 
-- fix(app): preserve ingress paths in Home Assistant routes @cjramseyer (#7)
-- fix(deploy): publish dev image aliases for Home Assistant installs @cjramseyer (#6)
+- fix(app): handle forwarded Home Assistant ingress paths @cjramseyer (#8)
 
-## 🚀 Features
-
-- Restore deploy workflow to hassio-addons reusable template @cjramseyer (#5)
-
-**Full Changelog**: https://github.com/cjramseyer/keypad-app/compare/dev...v0.2.0
+**Full Changelog**: https://github.com/cjramseyer/keypad-app/compare/v0.2.0...v0.2.1
