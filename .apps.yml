@@ -1,0 +1,7 @@
+---
+channel: edge
+apps:
+  keypad-app:
+    repository: cjramseyer/keypad-app
+    target: keypad-app
+    image: ghcr.io/cjramseyer/keypad-app/{arch}
