@@ -1,7 +1,5 @@
-## What's Changed
+# Changelog since v0.2.2
+- Merge pull request #10 from cjramseyer/update/2026-08-16
 
-## 🐛 Bug Fixes
-
-- fix(addon): start service by running /run.sh @cjramseyer (#9)
-
-**Full Changelog**: https://github.com/cjramseyer/keypad-app/compare/v0.2.1...v0.2.2
+feat(users): editable users, metadata, and enable/disable controls 
+- feat(users): add editable metadata and enable/disable controls 
