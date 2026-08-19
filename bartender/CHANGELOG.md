@@ -1,9 +1,8 @@
-# Changelog since v0.1.0
-- Merge pull request #25 from cjramseyer/dev
+# Changelog since v0.1.1
+- Merge pull request #27 from cjramseyer/dev
 
-fix: settings reliability and keg deletion safeguards 
-- Merge pull request #24 from cjramseyer/fix/repository-image-metadata
+fix: preserve keg percent and improve stock/display management UX 
+- Merge pull request #26 from cjramseyer/fix/preserve-keg-percent-full
 
-fix: settings/theme behavior and keg deletion guard 
-- fix: block deleting kegs assigned to taps 
-- fix: settings, theme control, and keg dashboard behavior 
+fix: preserve keg percent and improve stock/display management UX 
+- fix: preserve keg percent and improve stock/display management UX 
