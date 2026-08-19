@@ -1,0 +1,16 @@
+name: BarTender
+description: 'Manage your bar: track kegs, taps, and stock with a web UI.'
+version: 0.1.0
+slug: bartender
+url: https://github.com/cjramseyer/BarTender
+arch:
+- amd64
+- aarch64
+init: false
+ports:
+  8099/tcp: null
+  8100/tcp: 8100
+ingress: true
+panel_icon: mdi:beer
+panel_title: BarTender
+image: ghcr.io/cjramseyer/bartender/{arch}
