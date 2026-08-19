@@ -8,4 +8,4 @@ apps:
   bartender:
     repository: cjramseyer/bartender
     target: bartender
-    image: ghcr.io/cjramseyer/tender/{arch}
+    image: ghcr.io/cjramseyer/bartender/{arch}
