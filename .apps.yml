@@ -6,6 +6,6 @@ apps:
     target: keypad-app
     image: ghcr.io/cjramseyer/keypad-app/{arch}
   bartender:
-    repository: cjramseyer\bartender
+    repository: cjramseyer/bartender
     target: bartender
     image: ghcr.io/cjramseyer/tender/{arch}
