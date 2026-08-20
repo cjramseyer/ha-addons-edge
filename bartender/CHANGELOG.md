@@ -1,13 +1,8 @@
 ## What's Changed
 
-## 🧰 Maintenance
-
-- release: merge dev into main @cjramseyer (#33)
-- feat: printable menu, runtime QR support, and docs updates @cjramseyer (#32)
-
 ## 📚 Documentation
 
-- release: merge dev into main @cjramseyer (#33)
-- feat: printable menu, runtime QR support, and docs updates @cjramseyer (#32)
+- release: merge dev into main @cjramseyer (#36)
+- fix: dashboard pour/fill sync and safe external read-only links @cjramseyer (#35)
 
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.3.0...v0.3.1
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.3.1...v0.3.2
