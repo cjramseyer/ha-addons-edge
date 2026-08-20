@@ -1,8 +1,9 @@
-# Changelog since v0.1.1
-- Merge pull request #27 from cjramseyer/dev
+# Changelog since v0.2.0
+- Merge pull request #31 from cjramseyer/dev
 
-fix: preserve keg percent and improve stock/display management UX 
-- Merge pull request #26 from cjramseyer/fix/preserve-keg-percent-full
+feat: sync dev updates into main 
+- Merge pull request #30 from cjramseyer/fix
 
-fix: preserve keg percent and improve stock/display management UX 
-- fix: preserve keg percent and improve stock/display management UX 
+feat: implement issue updates, docs refresh, and Prettier fixes 
+- chore: format docs with prettier 
+- feat: implement issue updates and refresh docs 
