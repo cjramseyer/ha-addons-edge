@@ -2,7 +2,7 @@
 
 ## 🚀 Features
 
-- Merge dev into main @cjramseyer (#38)
-- Add beer catalog workflow and in-app API reference tester @cjramseyer (#37)
+- Merge dev into main @cjramseyer (#41)
+- Add bulk create flows, beer packaging rules, and menu/QR improvements @cjramseyer (#39)
 
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.3.2...v0.4.0
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.4.0...v0.5.0
