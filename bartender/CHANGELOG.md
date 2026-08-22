@@ -1,8 +1,8 @@
 ## What's Changed
 
-## 📚 Documentation
+## 🚀 Features
 
-- release: merge dev into main @cjramseyer (#36)
-- fix: dashboard pour/fill sync and safe external read-only links @cjramseyer (#35)
+- Merge dev into main @cjramseyer (#38)
+- Add beer catalog workflow and in-app API reference tester @cjramseyer (#37)
 
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.3.1...v0.3.2
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.3.2...v0.4.0
