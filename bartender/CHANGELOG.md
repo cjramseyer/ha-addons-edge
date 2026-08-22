@@ -1,8 +1,10 @@
 ## What's Changed
 
-## 🚀 Features
+- Merge dev into main @cjramseyer (#48)
+- Fix settings and external menu QR behaviors @cjramseyer (#47)
 
-- Merge dev into main @cjramseyer (#41)
-- Add bulk create flows, beer packaging rules, and menu/QR improvements @cjramseyer (#39)
+## 📚 Documentation
 
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.4.0...v0.5.0
+- docs: sync settings and QR behavior documentation @cjramseyer (#49)
+
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.5.0...v0.5.1
