@@ -1,10 +1,12 @@
 ## What's Changed
 
-- Merge dev into main @cjramseyer (#48)
-- Fix settings and external menu QR behaviors @cjramseyer (#47)
+## 🚀 Features
+
+- Address issues 50/51: beers layout and API reference nav toggle @cjramseyer (#52)
 
 ## 📚 Documentation
 
-- docs: sync settings and QR behavior documentation @cjramseyer (#49)
+- Release: merge dev into main @cjramseyer (#53)
+- Address issues 50/51: beers layout and API reference nav toggle @cjramseyer (#52)
 
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.5.0...v0.5.1
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.5.1...v0.6.0
