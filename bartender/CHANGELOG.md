@@ -1,8 +1,14 @@
 ## What's Changed
 
+- Add app icon and favicon support @cjramseyer (#86)
+
+## 🚀 Features
+
+- Release: backlog fixes, UX improvements, docs, and app icon @cjramseyer (#87)
+
 ## 📚 Documentation
 
-- Fix update: merge dev into main @cjramseyer (#65)
-- Fix update: onboarding, pours, analytics, and on-deck flow @cjramseyer (#64)
+- Release: backlog fixes, UX improvements, docs, and app icon @cjramseyer (#87)
+- Fix backlog items P0-P3 (workflow, dashboard, settings, docs) @cjramseyer (#85)
 
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.6.0...v0.6.1
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.6.1...v0.7.0
