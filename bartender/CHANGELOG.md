@@ -1,14 +1,9 @@
 ## What's Changed
 
-- Add app icon and favicon support @cjramseyer (#86)
-
-## 🚀 Features
-
-- Release: backlog fixes, UX improvements, docs, and app icon @cjramseyer (#87)
+- Sync dev into main: HA PNG icon and mobile lint fix @cjramseyer (#90)
 
 ## 📚 Documentation
 
-- Release: backlog fixes, UX improvements, docs, and app icon @cjramseyer (#87)
-- Fix backlog items P0-P3 (workflow, dashboard, settings, docs) @cjramseyer (#85)
+- Fix HA add-on docs link and PNG icon discovery @cjramseyer (#89)
 
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.6.1...v0.7.0
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.7.0...v0.7.1
