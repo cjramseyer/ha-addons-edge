@@ -1,9 +1,8 @@
-# Changelog since v0.8.3
-- Merge pull request #105 from cjramseyer/dev
+# Changelog since v0.9.0
+- Merge pull request #107 from cjramseyer/dev
 
-Merge dev into main 
-- Merge pull request #104 from cjramseyer/docs/ha-addon-readme
+Add team accounts with role-based permissions 
+- Merge pull request #106 from cjramseyer/feature/issue-59-team-accounts
 
-Add Home Assistant add-on README and beer catalog CSV support 
-- Tighten beer CSV schema and docs 
-- Add Home Assistant add-on README 
+Add team accounts with role-based permissions 
+- Add team access roles and audit tracking 
