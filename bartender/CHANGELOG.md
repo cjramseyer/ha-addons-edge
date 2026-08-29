@@ -1,8 +1,9 @@
-# Changelog since v0.11.2
-- Merge pull request #115 from cjramseyer/dev
+## What's Changed
 
-Fix invalid volume units in analytics 
-- Merge pull request #114 from cjramseyer/fix/app-volume-unit-null
+- Merge dev into main @cjramseyer (#117)
 
-Fix invalid volume units in analytics 
-- Fix invalid volume units in analytics 
+## 🚀 Features
+
+- Hotfix: restore login screen and CSV upload handling @cjramseyer (#116)
+
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.12.0...v0.13.0
