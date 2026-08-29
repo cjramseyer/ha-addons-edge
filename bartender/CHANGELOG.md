@@ -1,6 +1,8 @@
-## What's Changed
+# Changelog since v0.11.2
+- Merge pull request #115 from cjramseyer/dev
 
-- Fix Home Assistant ingress proxy handling @cjramseyer (#113)
-- Fix Home Assistant ingress proxy handling @cjramseyer (#112)
+Fix invalid volume units in analytics 
+- Merge pull request #114 from cjramseyer/fix/app-volume-unit-null
 
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.11.1...v0.11.2
+Fix invalid volume units in analytics 
+- Fix invalid volume units in analytics 
