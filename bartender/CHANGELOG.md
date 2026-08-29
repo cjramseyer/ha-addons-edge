@@ -1,6 +1,9 @@
-## What's Changed
+# Changelog since v0.8.3
+- Merge pull request #105 from cjramseyer/dev
 
-- Release: merge dev into main @cjramseyer (#103)
-- Fix template formatting warnings and stabilize dashboard rendering @cjramseyer (#102)
+Merge dev into main 
+- Merge pull request #104 from cjramseyer/docs/ha-addon-readme
 
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.8.2...v0.8.3
+Add Home Assistant add-on README and beer catalog CSV support 
+- Tighten beer CSV schema and docs 
+- Add Home Assistant add-on README 
