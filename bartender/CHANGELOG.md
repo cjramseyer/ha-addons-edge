@@ -1,8 +1,8 @@
-# Changelog since v0.9.0
-- Merge pull request #107 from cjramseyer/dev
+## What's Changed
 
-Add team accounts with role-based permissions 
-- Merge pull request #106 from cjramseyer/feature/issue-59-team-accounts
+## 🚀 Features
 
-Add team accounts with role-based permissions 
-- Add team access roles and audit tracking 
+- BarTender: release prep with login flow and audit retention @cjramseyer (#109)
+- Add login flow and audit retention updates @cjramseyer (#108)
+
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.10.0...v0.11.0
