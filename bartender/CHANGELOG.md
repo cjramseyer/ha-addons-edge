@@ -1,6 +1,6 @@
 ## What's Changed
 
-- Merge recovery and sample release asset updates into main @cjramseyer (#119)
-- Add owner PIN recovery flow for upgraded installs @cjramseyer (#118)
+- Add hamburger nav menu @cjramseyer (#121)
+- Add hamburger nav menu @cjramseyer (#120)
 
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.13.0...v0.13.1
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.13.1...v0.13.2
