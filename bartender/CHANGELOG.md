@@ -1,8 +1,6 @@
 ## What's Changed
 
-## 🚀 Features
+- Release dev to main: keg indicator readability and display layout updates @cjramseyer (#132)
+- Refine keg level visuals and display readability @cjramseyer (#131)
 
-- Feature: display settings, UX polish, and settings access updates @cjramseyer (#130)
-- Update display settings and UI polish @cjramseyer (#129)
-
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.14.0...v0.15.0
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.15.0...v0.15.1
