@@ -1,8 +1,12 @@
 ## What's Changed
 
-- Release: deploy target repo remap and documentation refresh @cjramseyer (#125)
-- Fix deploy targets for renamed add-on repositories @cjramseyer (#124)
-- Release: UI nav polish, settings IA updates, sample screenshots, and docs refresh @cjramseyer (#123)
-- UI settings and nav polish follow-up @cjramseyer (#122)
+## 🚀 Features
 
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.13.2...v0.13.3
+- Release dev to main: dashboard, team access, and settings updates @cjramseyer (#128)
+- Dashboard, Team Access, and Settings UX Improvements @cjramseyer (#127)
+
+## 📚 Documentation
+
+- Release dev to main: dashboard, team access, and settings updates @cjramseyer (#128)
+
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.13.3...v0.14.0
