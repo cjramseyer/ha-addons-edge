@@ -2,11 +2,7 @@
 
 ## 🚀 Features
 
-- Release dev to main: dashboard, team access, and settings updates @cjramseyer (#128)
-- Dashboard, Team Access, and Settings UX Improvements @cjramseyer (#127)
+- Feature: display settings, UX polish, and settings access updates @cjramseyer (#130)
+- Update display settings and UI polish @cjramseyer (#129)
 
-## 📚 Documentation
-
-- Release dev to main: dashboard, team access, and settings updates @cjramseyer (#128)
-
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.13.3...v0.14.0
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.14.0...v0.15.0
