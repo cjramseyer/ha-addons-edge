@@ -1,9 +1,6 @@
-# Changelog since v0.17.0
-- Merge pull request #142 from cjramseyer/dev
+## What's Changed
 
-Add comprehensive audit trail controls 
-- Merge pull request #141 from cjramseyer/feat/audit-access-controls
+- Avoid no-op settings audit events @cjramseyer (#145)
+- Avoid no-op settings audit events @cjramseyer (#143)
 
-Add comprehensive audit trail controls 
-- Document audit trail controls 
-- Add comprehensive audit trail controls 
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.17.1...v0.17.2
