@@ -1,6 +1,6 @@
 name: BarTender
 description: 'Manage your bar: track kegs, taps, and stock with a web UI.'
-version: 7ca0ef6
+version: ef5f2b7
 slug: bartender
 url: https://github.com/cjramseyer/BarTender
 arch:
