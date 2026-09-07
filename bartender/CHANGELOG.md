@@ -1,10 +1,9 @@
-# Changelog since v0.16.0
-- Merge pull request #140 from cjramseyer/dev
+# Changelog since v0.17.0
+- Merge pull request #142 from cjramseyer/dev
 
-Improve settings recovery and display configuration UX 
-- Merge pull request #138 from cjramseyer/feature/owner-recovery-team-access
+Add comprehensive audit trail controls 
+- Merge pull request #141 from cjramseyer/feat/audit-access-controls
 
-Improve settings recovery and autosave UX 
-- Add hybrid autosave for settings 
-- Clarify display count for homebrewers 
-- Route owner recovery through Team Access 
+Add comprehensive audit trail controls 
+- Document audit trail controls 
+- Add comprehensive audit trail controls 
