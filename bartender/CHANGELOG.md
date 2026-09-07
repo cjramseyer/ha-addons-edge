@@ -1,6 +1,8 @@
 ## What's Changed
 
-- Fix telemetry heartbeat endpoint @cjramseyer (#153)
-- Fix telemetry heartbeat endpoint @cjramseyer (#152)
+## 🚀 Features
 
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.17.4...v0.17.5
+- Update interface, telemetry reporting, display layout, and tap/keg metadata @cjramseyer (#156)
+- Fix interface, telemetry user-agent, display layout, and expand keg/tap metadata @cjramseyer (#155)
+
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.17.5...v0.18.0
