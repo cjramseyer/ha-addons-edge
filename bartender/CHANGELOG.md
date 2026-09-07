@@ -1,8 +1,6 @@
-# Changelog since v0.17.3
-- Merge pull request #151 from cjramseyer/dev
+## What's Changed
 
-Log telemetry heartbeat outcomes 
-- Merge pull request #150 from cjramseyer/fix/telemetry-heartbeat-logging
+- Fix telemetry heartbeat endpoint @cjramseyer (#153)
+- Fix telemetry heartbeat endpoint @cjramseyer (#152)
 
-Log telemetry heartbeat outcomes 
-- Log telemetry heartbeat outcomes 
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.17.4...v0.17.5
