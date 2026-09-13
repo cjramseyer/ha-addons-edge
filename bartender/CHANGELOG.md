@@ -1,11 +1,8 @@
-# Changelog since v0.20.0
-- Merge pull request #168 from cjramseyer/dev
+# Changelog since v0.21.0
+- Merge pull request #170 from cjramseyer/dev
 
-Fix ingress, What's New, and session handling 
-- Merge pull request #166 from cjramseyer/fix
+Fix QR/NFC credential display in Team Access 
+- Merge pull request #169 from cjramseyer/fix/qr-nfc-ui
 
-Fix What's New, ingress, and session timeouts 
-- Resolve app type diagnostics 
-- Add configurable session timeouts 
-- Update Home Assistant ingress helper 
-- Fix What's New login behavior 
+Fix QR/NFC credential display in Team Access 
+- Fix QR NFC credential modal 
