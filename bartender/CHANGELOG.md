@@ -1,14 +1,17 @@
-## What's Changed
+# Changelog since v0.19.0
+- Merge pull request #164 from cjramseyer/dev
 
-## 🚀 Features
+Release production WSGI, dashboard editing, and database options 
+- Merge pull request #162 from cjramseyer/fix/issue-144-production-wsgi
 
-- Release Brewfather, QR/NFC sign-in, and mobile layout @cjramseyer (#160)
-- Add per-user QR/NFC sign-in and mobile layout @cjramseyer (#159)
-- Add Brewfather integration and configurable storage @cjramseyer (#158)
+Run add-on listeners with production WSGI 
+- Run add-on listeners with production WSGI 
+- Make What's New dismissal per user 
+- Format app JavaScript with Prettier 
+- Add dashboard inline editing and per-user What's New 
+- Merge pull request #161 from cjramseyer/feature/database-addon-options
 
-## 🔒 Security
-
-- Release Brewfather, QR/NFC sign-in, and mobile layout @cjramseyer (#160)
-- Add per-user QR/NFC sign-in and mobile layout @cjramseyer (#159)
-
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.18.0...v0.19.0
+Add Home Assistant database configuration options 
+- Format README with Prettier 
+- Fix shell script check warnings 
+- Add Home Assistant database options 
