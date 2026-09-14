@@ -1,8 +1,9 @@
-# Changelog since v0.21.0
-- Merge pull request #170 from cjramseyer/dev
+## What's Changed
 
-Fix QR/NFC credential display in Team Access 
-- Merge pull request #169 from cjramseyer/fix/qr-nfc-ui
+## 🚀 Features
 
-Fix QR/NFC credential display in Team Access 
-- Fix QR NFC credential modal 
+- Add session tracking and configurable settings improvements @cjramseyer (#172)
+- Add persistent pour station registration @cjramseyer (#173)
+- Add session tracking and configurable session modes @cjramseyer (#171)
+
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.21.1...v0.22.0
