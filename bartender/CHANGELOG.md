@@ -2,11 +2,11 @@
 
 ## 🚀 Features
 
-- Secure and update the mobile app @cjramseyer (#176)
-- Update mobile app for current BarTender API @cjramseyer (#175)
+- Add authenticated mobile access and session management @cjramseyer (#178)
 
 ## 🔒 Security
 
-- Secure and update the mobile app @cjramseyer (#176)
+- Add authenticated mobile access and session management @cjramseyer (#178)
+- Fix first-run setup bootstrap @cjramseyer (#177)
 
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.22.0...v0.23.0
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.23.0...v0.24.0
