@@ -1,6 +1,6 @@
 name: BarTender
 description: 'Manage your bar: track kegs, taps, and stock with a web UI.'
-version: 0.22.0
+version: 0.23.0
 slug: bartender
 url: https://github.com/cjramseyer/BarTender
 arch:
@@ -22,8 +22,10 @@ options:
   storage_backend: internal
   database_url: ''
   session_timeout_minutes: 240
+  cors_allowed_origins: ''
 schema:
   storage_backend: list(internal|postgresql|mariadb)
   database_url: str
   session_timeout_minutes: int(5,43200)
+  cors_allowed_origins: str
 image: ghcr.io/cjramseyer/bartender/{arch}

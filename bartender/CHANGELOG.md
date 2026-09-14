@@ -2,8 +2,11 @@
 
 ## 🚀 Features
 
-- Add session tracking and configurable settings improvements @cjramseyer (#172)
-- Add persistent pour station registration @cjramseyer (#173)
-- Add session tracking and configurable session modes @cjramseyer (#171)
+- Secure and update the mobile app @cjramseyer (#176)
+- Update mobile app for current BarTender API @cjramseyer (#175)
 
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.21.1...v0.22.0
+## 🔒 Security
+
+- Secure and update the mobile app @cjramseyer (#176)
+
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.22.0...v0.23.0
