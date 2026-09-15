@@ -1,6 +1,6 @@
 ## What's Changed
 
-- Release date-based What's New behavior @cjramseyer (#184)
-- Fix date-based What's New visibility @cjramseyer (#183)
+- Release What's New popup compatibility fix @cjramseyer (#186)
+- Fix What's New popup for legacy dismissals @cjramseyer (#185)
 
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.24.2...v0.24.3
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.24.3...v0.24.4
