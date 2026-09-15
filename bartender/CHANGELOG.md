@@ -1,6 +1,6 @@
 ## What's Changed
 
-- Release What's New popup compatibility fix @cjramseyer (#186)
-- Fix What's New popup for legacy dismissals @cjramseyer (#185)
+- Release packaged What’s New fix @cjramseyer (#188)
+- Fix packaged release highlights and What's New modal @cjramseyer (#187)
 
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.24.3...v0.24.4
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.24.4...v0.24.5
