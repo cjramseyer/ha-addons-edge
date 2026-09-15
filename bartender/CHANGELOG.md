@@ -1,18 +1,9 @@
 ## What's Changed
 
-## 🚀 Features
-
-- Release signed Keystone activation requests @cjramseyer (#192)
-- Sign Keystone activation requests @cjramseyer (#191)
+- Release Keystone activation signature fix @cjramseyer (#194)
 
 ## 🔒 Security
 
-- Release signed Keystone activation requests @cjramseyer (#192)
-- Sign Keystone activation requests @cjramseyer (#191)
+- Fix Keystone activation proof signing contract @cjramseyer (#193)
 
-## 📚 Documentation
-
-- Release signed Keystone activation requests @cjramseyer (#192)
-- Sign Keystone activation requests @cjramseyer (#191)
-
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.24.6...v0.25.0
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.25.0...v0.25.1
