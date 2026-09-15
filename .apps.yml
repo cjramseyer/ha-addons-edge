@@ -9,3 +9,7 @@ apps:
     repository: cjramseyer/bartender
     target: bartender
     image: ghcr.io/cjramseyer/bartender/{arch}
+  ha-keystone:
+    repository: cjramseyer/ha-keystone
+    target: keystone
+    image: ghcr.io/cjramseyer/ha-keystone/{arch}
