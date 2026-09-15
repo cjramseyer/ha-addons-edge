@@ -1,6 +1,9 @@
-## What's Changed
+# Changelog since v0.24.5
+- Merge pull request #190 from cjramseyer/dev
 
-- Release packaged What’s New fix @cjramseyer (#188)
-- Fix packaged release highlights and What's New modal @cjramseyer (#187)
+Release Keystone licensing integration 
+- Merge pull request #189 from cjramseyer/feature/app-licensing-options
 
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.24.4...v0.24.5
+Add Keystone activation requests and portal configuration 
+- Add configurable license portal URL 
+- Add offline license activation requests 
