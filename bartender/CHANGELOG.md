@@ -1,9 +1,8 @@
-## What's Changed
+# Changelog since v0.25.1
+- Merge pull request #196 from cjramseyer/dev
 
-- Release Keystone activation signature fix @cjramseyer (#194)
+Release Keystone license validation hardening 
+- Merge pull request #195 from cjramseyer/feature/app-licensing-options
 
-## 🔒 Security
-
-- Fix Keystone activation proof signing contract @cjramseyer (#193)
-
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.25.0...v0.25.1
+Harden Keystone JWT license validation 
+- Harden Keystone license validation 
