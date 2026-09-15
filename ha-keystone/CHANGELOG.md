@@ -1,15 +1,9 @@
-## What's Changed
-- Finalize Keystone portal and CI workflow hardening @cjramseyer (#5)
+# Changelog since v0.1.0
+- Merge pull request #8 from cjramseyer/dev
 
-## 🚀 Features
+Fix default theme and admin password handling 
+- Merge pull request #6 from cjramseyer/fix/password-reset-flow
 
-- Align add-on slug with repo name @cjramseyer (#4)
-
-## 🔒 Security
-
-- Align add-on slug with repo name @cjramseyer (#4)
-
-## 📚 Documentation
-
-- Align add-on slug with repo name @cjramseyer (#4)
-**Full Changelog**: https://github.com/cjramseyer/ha-keystone/compare/v0.0.1...v0.1.0
+Fix default theme and admin password handling 
+- Apply formatting and auth fix updates 
+- Fix default theme and admin password handling 
