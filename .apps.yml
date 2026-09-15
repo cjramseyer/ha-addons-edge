@@ -11,5 +11,5 @@ apps:
     image: ghcr.io/cjramseyer/bartender/{arch}
   ha-keystone:
     repository: cjramseyer/ha-keystone
-    target: ha-keystone
+    target: keystone
     image: ghcr.io/cjramseyer/ha-keystone/{arch}
