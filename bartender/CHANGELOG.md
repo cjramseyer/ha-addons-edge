@@ -1,13 +1,6 @@
-# Changelog since v0.24.0
-- Merge pull request #180 from cjramseyer/dev
+## What's Changed
 
-Release Pro licensing and CORS management 
-- Merge pull request #179 from cjramseyer/feature/app-licensing-options
+- Release profile visibility and local What’s New updates @cjramseyer (#182)
+- Make release highlights and Pro settings profile-aware @cjramseyer (#181)
 
-Add Pro licensing and secure management controls 
-- Update cryptography past latest advisory 
-- Update cryptography for security advisories 
-- Show active CORS origins in settings 
-- Restrict licensing to management UI 
-- Restrict POS settings to Pro profile 
-- Add licensing options and Pro trials 
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.24.1...v0.24.2
