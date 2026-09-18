@@ -1,8 +1,10 @@
-# Changelog since v0.25.1
-- Merge pull request #196 from cjramseyer/dev
+# Changelog since v0.25.2
+- Merge pull request #198 from cjramseyer/dev
 
-Release Keystone license validation hardening 
-- Merge pull request #195 from cjramseyer/feature/app-licensing-options
+Release inventory controls and extended Pro trials 
+- Merge pull request #197 from cjramseyer/feature/app-licensing-options
 
-Harden Keystone JWT license validation 
-- Harden Keystone license validation 
+Improve inventory controls and Pro trial licensing 
+- Support extended Pro trial licenses 
+- Improve tap and keg management controls 
+- Fix keg fill volume defaults 
