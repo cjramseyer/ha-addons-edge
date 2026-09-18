@@ -1,4 +1,4 @@
 ## What's Changed
-- Remove invalid whole-token Base64URL delivery format @cjramseyer (#16)
-- Remove invalid whole-token Base64URL delivery format @cjramseyer (#15)
-**Full Changelog**: https://github.com/cjramseyer/ha-keystone/compare/v0.1.4...v0.1.5
+- Add clipboard copy fallback and fix dashboard greeting/date @cjramseyer (#18)
+- Add clipboard copy fallback for ingress iframe contexts @cjramseyer (#17)
+**Full Changelog**: https://github.com/cjramseyer/ha-keystone/compare/v0.1.5...v0.1.6
