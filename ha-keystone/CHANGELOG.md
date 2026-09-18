@@ -1,6 +1,9 @@
-## What's Changed
-## 📚 Documentation
+# Changelog since v0.1.2
+- Merge pull request #12 from cjramseyer/dev
 
-- Fix authentication through Home Assistant ingress @cjramseyer (#10)
-- Fix authentication through Home Assistant ingress @cjramseyer (#9)
-**Full Changelog**: https://github.com/cjramseyer/ha-keystone/compare/v0.1.1...v0.1.2
+Standardize application licensing integration 
+- Merge pull request #11 from cjramseyer/fix/activation-profile-mismatch
+
+Standardize application licensing integration 
+- Format activation profile validation 
+- Standardize application licensing integration 
