@@ -1,6 +1,6 @@
 name: Keystone Licensing Portal
 description: Private multi-application licensing portal
-version: ce3c3a6
+version: 50b4c42
 slug: ha-keystone
 url: https://github.com/cjramseyer/ha-keystone
 arch:
