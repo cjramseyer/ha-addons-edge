@@ -1,9 +1,6 @@
-# Changelog since v0.1.0
-- Merge pull request #8 from cjramseyer/dev
+## What's Changed
+## 📚 Documentation
 
-Fix default theme and admin password handling 
-- Merge pull request #6 from cjramseyer/fix/password-reset-flow
-
-Fix default theme and admin password handling 
-- Apply formatting and auth fix updates 
-- Fix default theme and admin password handling 
+- Fix authentication through Home Assistant ingress @cjramseyer (#10)
+- Fix authentication through Home Assistant ingress @cjramseyer (#9)
+**Full Changelog**: https://github.com/cjramseyer/ha-keystone/compare/v0.1.1...v0.1.2
