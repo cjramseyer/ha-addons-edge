@@ -1,4 +1,4 @@
 ## What's Changed
-- Fix license activation instance binding @cjramseyer (#20)
-- Fix license activation instance binding @cjramseyer (#19)
-**Full Changelog**: https://github.com/cjramseyer/ha-keystone/compare/v0.1.6...v0.1.7
+- Add first-run setup and remove demo data @cjramseyer (#22)
+- Remove demo data and add first-run setup wizard @cjramseyer (#21)
+**Full Changelog**: https://github.com/cjramseyer/ha-keystone/compare/v0.1.7...v0.1.8
