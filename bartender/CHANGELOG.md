@@ -1,6 +1,8 @@
 ## What's Changed
 
-- Release: fix Not Found on direct management port access @cjramseyer (#215)
-- Fix Not Found when opening the exposed management port directly @cjramseyer (#214)
+## 📚 Documentation
 
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.26.0...v0.26.1
+- Release: fix owner mobile sign-in with Owner PIN @cjramseyer (#217)
+- Fix owner mobile sign-in with Owner PIN @cjramseyer (#216)
+
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.26.1...v0.26.2
