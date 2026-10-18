@@ -1,6 +1,12 @@
 ## What's Changed
 
-- Release Pro inline device integration @cjramseyer (#211)
-- Add Pro inline device integration @cjramseyer (#210)
+## 🚀 Features
 
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.25.8...v0.25.9
+- Release: mobile server setup, sign-in, and dark mode @cjramseyer (#213)
+- Improve mobile server setup, sign-in, and theme @cjramseyer (#212)
+
+## 📚 Documentation
+
+- Release: mobile server setup, sign-in, and dark mode @cjramseyer (#213)
+
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.25.9...v0.26.0
