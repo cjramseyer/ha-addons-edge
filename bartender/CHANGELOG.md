@@ -1,12 +1,6 @@
 ## What's Changed
 
-## 🚀 Features
+- Release: fix Not Found on direct management port access @cjramseyer (#215)
+- Fix Not Found when opening the exposed management port directly @cjramseyer (#214)
 
-- Release: mobile server setup, sign-in, and dark mode @cjramseyer (#213)
-- Improve mobile server setup, sign-in, and theme @cjramseyer (#212)
-
-## 📚 Documentation
-
-- Release: mobile server setup, sign-in, and dark mode @cjramseyer (#213)
-
-**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.25.9...v0.26.0
+**Full Changelog**: https://github.com/cjramseyer/BarTender/compare/v0.26.0...v0.26.1
